@@ -1,6 +1,6 @@
 # Advanced Solar Tracking System
 
-A Simulink model that simulates an advanced solar tracking system designed to maximize energy capture under varying environmental conditions.
+A Simulink model that simulates an solar tracking system designed to maximize energy capture under varying environmental conditions.
 
 ## Overview
 
