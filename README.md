@@ -1,4 +1,4 @@
-# Advanced Solar Tracking System
+# Advanced Solar Tracking Systems
 
 A Simulink model that simulates an solar tracking system designed to maximize energy capture under varying environmental conditions.
 
